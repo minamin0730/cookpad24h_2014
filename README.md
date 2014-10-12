@@ -9,3 +9,4 @@ for Cookpad 24h hack
 
 ##参加者
 - [@atsushi0613](https://twitter.com/atsushi0613)
+- [@minamin0730](https://twitter.com/minamin0730)
