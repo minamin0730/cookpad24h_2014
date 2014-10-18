@@ -38,7 +38,6 @@
                                 </userDefinedRuntimeAttributes>
                                 <connections>
                                     <action selector="LoginButtonPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="YGt-JA-gQU"/>
-                                    <segue destination="vXZ-lx-hvc" kind="modal" id="hNK-k2-wvy"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -47,6 +46,9 @@
                             <constraint firstAttribute="centerX" secondItem="cH5-ur-DgI" secondAttribute="centerX" id="GQg-AQ-KXC"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <segue destination="vXZ-lx-hvc" kind="modal" identifier="login" id="dcm-qv-HAa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jCh-mp-BAi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
