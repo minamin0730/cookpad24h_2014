@@ -7,8 +7,11 @@
 //
 
 #import "ViewController.h"
+#import <FUITextField.h>
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet FUITextField *UserNameTextField;
+@property (weak, nonatomic) IBOutlet FUITextField *UserPasswordTextField;
 
 @end
 
@@ -22,6 +25,8 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+- (IBAction)LoginButtonPressed:(id)sender {
 }
 
 @end
