@@ -1,0 +1,5 @@
+platform :ios, "8.0"
+pod 'AFNetworking', '~> 2.0'
+pod 'FlatUIKit', '~> 1.5'
+pod 'MagicalRecord', '~> 2.2'
+pod 'LUKeychainAccess', '~> 1.2.2'

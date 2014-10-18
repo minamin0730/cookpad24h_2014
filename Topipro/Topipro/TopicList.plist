@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hobby</key>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>Sports</key>
+		<array>
+			<string>水泳</string>
+			<string>野球</string>
+			<string>テニス</string>
+		</array>
+		<key>Create</key>
+		<array>
+			<string>油絵</string>
+			<string>手芸</string>
+			<string>プログラミング</string>
+		</array>
+		<key>New item - 3</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+</dict>
+</plist>
